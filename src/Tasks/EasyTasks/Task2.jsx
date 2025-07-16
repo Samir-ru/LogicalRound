@@ -7,7 +7,7 @@ export default function Task2() {
     }
   return (
     <div>
-       the Largest number is: {largest(array)}
+   <button onClick={() => console.log(largest(array))}>click</button> and view console
     </div>
   )
 }

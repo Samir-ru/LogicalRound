@@ -16,39 +16,39 @@ function App() {
 
 <>
 <section>
-  Task 1:
+  Task 1: Reverse a string
   <Task1/>
 </section>
 <section>
-  Task 2: 
+Task 2: Find the Largest Number in an Array input array is  [1, 7, 9, 2, 5] 
   <Task2/>
 </section>
 <section>
-  Task 3:
+  Task 3: Print Even Number from 1 to N
   <Task3/>
 </section>
 <section>
-  Task 4:
+  Task 4: Task 4: Sum All Numbers in an Array
   <Task4/>
 </section>
 <section>
-  Task 5
+  Task 5: Basic useState example
   <Task5/>
 </section>
 <section>
-  Task 7:
+  Task 7: Flatten a Nested Array
   <Task7/>
 </section>
 <section>
-  Task 8:
+  Task 8: Check for Palindrome
 <Task8/>
 </section>
 <section>
-  Task 9:
+  Task 9: Character Frequency Counter
   <Task9/>
 </section>
 <section>
-  Task12:
+  Task12: Domain WhoIs with API
   <Task12/>
 </section>
 <section>
