@@ -11,6 +11,7 @@ import Task9 from './Tasks/Intermediate/Task9'
 import DebugTask1 from './Tasks/DebuggingTask/DebugTask3and4'
 import Task12 from './Tasks/Intermediate/Task12'
 import { BrowserRouter as Router, Routes, Route} from 'react-router'
+import Task11 from './Tasks/Intermediate/Task11'
 function App() {
   return (
 
@@ -46,6 +47,10 @@ Task 2: Find the Largest Number in an Array input array is  [1, 7, 9, 2, 5]
 <section>
   Task 9: Character Frequency Counter
   <Task9/>
+</section>
+<section>
+  Task11: First Unique Character in a String
+  <Task11/>
 </section>
 <section>
   Task12: Domain WhoIs with API
